@@ -11,10 +11,6 @@ list_of_files = [
     f"project_root/notebooks/02_framework_design.ipynb",
     f"project_root/notebooks/03_xai_techniques_implementation.ipynb",
     f"project_root/notebooks/04_strategic_bias_mitigation.ipynb",
-    f"project_root/notebooks/05_quantitative_evaluation.ipynb",
-    f"project_root/notebooks/06_cross_domain_generalization.ipynb",
-    f"project_root/notebooks/07_practical_deployment_recommendations.ipynb",
-    f"project_root/notebooks/08_ethical_ai_practices.ipynb",
 ]
 
 for filepath in list_of_files:
