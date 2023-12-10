@@ -15,10 +15,6 @@ list_of_files = [
     f"project_root/notebooks/06_cross_domain_generalization.ipynb",
     f"project_root/notebooks/07_practical_deployment_recommendations.ipynb",
     f"project_root/notebooks/08_ethical_ai_practices.ipynb",
-    f"project_root/notebooks/09_documentation_and_reporting.ipynb",
-    f"project_root/notebooks/10_peer_review_and_validation.ipynb",
-    f"project_root/src/xai_framework.py",
-    f"project_root/src/preprocessing_utils.py",
 ]
 
 for filepath in list_of_files:
